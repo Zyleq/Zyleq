@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-🔭 I’m currently working on a conversational language app<br>🤝 I’m looking to collaborate on all sorts of open-source devops engineering, backend and frontend projects.<br>🌱 I’m currently learning AWS cloud<br>💬 Ask me about my interest
+🔭 I’m currently working on a conversational language app<br>🤝 I’m looking to collaborate on all sorts of open-source devops engineering, backend and frontend projects.<br>🌱 I’m currently learning K8s attack vectors<br>💬 Ask me about my interest
 
 
 ## 🌐 Socials:
